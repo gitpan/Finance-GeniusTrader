@@ -1,0 +1,26 @@
+---
+abstract: 'a full featured toolbox to create trading systems'
+author:
+  - 'Erik Colson <eco@ecocode.net>'
+build_requires:
+  ExtUtils::MakeMaker: 6.42
+  Test::More: 0
+configure_requires:
+  ExtUtils::MakeMaker: 6.42
+distribution_type: module
+generated_by: 'Module::Install version 0.91'
+license: gpl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Finance-GeniusTrader
+no_index:
+  directory:
+    - Windows_Installer
+    - docs
+    - inc
+    - t
+    - website
+resources:
+  license: http://opensource.org/licenses/gpl-license.php
+version: 0.00_50
